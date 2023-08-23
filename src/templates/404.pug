@@ -1,0 +1,18 @@
+doctype html
+html(lang="en")
+  head
+    if seo.title
+      title=seo.title
+    else
+      title=""
+    if seo.description
+      meta(name="description", content=seo.description)
+    else
+      meta(name="description", content="")
+    include head.pug
+  body
+    include nav.pug
+    main.content
+      iframe(class="page-404", src="https://www.youtube.com/embed/jRxSRyrTANY?controls=0&fs=0&modestbranding=1", frameborder="0")
+      p The page you're looking for doesn't exist. You can #[a(href="/") go back] to safety, or deeper into #[a(href="https://hamsterdance.neocities.org/") the void]. It's your decision.
+    include footer.pug

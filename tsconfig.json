@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@config": ["src/config.ts"],
+      "*": ["src/*"],
+      "@src/*": ["src/*"],
+      "@app/*": ["src/app/*"],
+      "@templates/*": ["src/templates/*"]
+    },
+    "moduleResolution": "node",
+    "target": "es2016",
+    "module": "commonjs",
+    "removeComments": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": ["src/*"],
+  "exclude": ["dist", "node_modules"]
+}

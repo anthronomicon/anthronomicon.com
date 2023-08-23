@@ -1,0 +1,24 @@
+include time.pug
+doctype html
+html(lang="en")
+  head
+    if seo.sitename
+      title!=attributes.title + " | " + seo.sitename
+    else
+      title=attributes.title
+    meta(name="description", content=attributes.description)
+    if site.url
+      meta(property="og:url", content!=site.url + "/" + path)
+    meta(property="og:type", content="article")
+    meta(property="og:title", content=attributes.title)
+    meta(property="og:description", content=attributes.description)
+    meta(property="article:published_time", content!=toISODate(attributes.date))
+    if seo.author
+      meta(property="article:author", content=seo.author)
+    if attributes.featuredImage
+      meta(property="og:image", content=attributes.featuredImage)
+    include head.pug
+  body
+    include nav.pug
+    include post-body.pug
+    include footer.pug

@@ -1,0 +1,13 @@
+doctype html
+html(lang="en")
+  head
+    if seo.sitename
+      title!=attributes.title + " | " + seo.sitename
+    else
+      title=attributes.title
+    meta(name="description", content=attributes.description)
+    include head.pug
+  body
+    include nav.pug
+    include page-body.pug
+    include footer.pug

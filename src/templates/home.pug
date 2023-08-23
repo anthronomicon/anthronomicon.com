@@ -1,0 +1,19 @@
+include time.pug
+doctype html
+html(lang="en")
+  head
+    if seo.title
+      title=seo.title
+    else
+      title=""
+    if seo.description
+      meta(name="description", content=seo.description)
+    else
+      meta(name="description", content="")
+    include head.pug
+  body
+    include nav.pug
+    include post-body.pug
+    include footer.pug
+
+
