@@ -18,7 +18,7 @@ html(lang="en")
     if attributes.featuredImage
       meta(property="og:image", content=attributes.featuredImage)
     include head.pug
-  body
+  body.hidden
     include nav.pug
     include post-body.pug
     include footer.pug
