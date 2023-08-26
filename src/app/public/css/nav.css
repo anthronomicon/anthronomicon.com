@@ -1,0 +1,61 @@
+header {
+  font-family: "Averia Serif Libre";
+  color: var(--white);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 95vw;
+  margin: 48px 0;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 700px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  align-items: center;
+}
+
+nav ul li a {
+  background-color: transparent;
+  padding: 12px 16px;
+  border-radius: 12px;
+  margin: 0 12px;
+  transition: all 450ms ease;
+}
+
+nav .active {
+  background-color: var(--orange);
+  padding: 12px 16px;
+  border-radius: 12px;
+  margin: 0 16px;
+}
+
+nav ul li:first-of-type a {
+  margin-left: 0;
+}
+nav ul li:last-of-type a {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .title {
+    margin-bottom: 24px;
+  }
+}

@@ -1,13 +1,13 @@
 export default {
   site: {
-    url: "https://anthronomicon.blog",
+    url: "https://anthronomicon.com",
     name: "Anthronomicon",
   },
   seo: {
-    title: "Anthronomicon",
+    title: "The Anthronomicon",
     author: "Tyler Reckart",
-    description: "",
-    sitename: "Anthronomicon",
+    description: "Essays on history, culture, and what it means to be human.",
+    sitename: "The Anthronomicon",
   },
   integrations: {
     gaTrackingId: "UA-70418516-2",
