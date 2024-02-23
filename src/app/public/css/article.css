@@ -40,7 +40,6 @@ article h2 {
   font-weight: 700;
   line-height: 56px;
   margin: 0;
-  max-width: 386px;
 }
 
 article > .content {
@@ -82,4 +81,29 @@ article a:hover {
 
 article > .header a {
   text-decoration: none;
+}
+
+.book-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 48px;
+}
+
+.book-info {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.book-info > strong {
+  max-width: 420px;
+}
+
+.book-container > img {
+  border-radius: 0 6% 6% 0/4%;
+  overflow: hidden;
+  filter: drop-shadow(0 0.2rem 0.6rem rgba(0, 0, 0, 0.2));
+  margin-right: 24px;
+  width: 124px;
+  height: 148px;
 }

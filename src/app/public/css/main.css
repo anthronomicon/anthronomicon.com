@@ -32,9 +32,19 @@ a {
   color: inherit;
 }
 
+hr {
+  height: 2px;
+  background: var(--gray);
+  border: none;
+}
+
 .hidden { display: none !important; }
 
 ::selection {
   color: var(--white);
   background: var(--orange);
+}
+
+::-webkit-scrollbar {
+  display: none;
 }
