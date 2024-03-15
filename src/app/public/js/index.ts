@@ -1,3 +1,4 @@
+// @ts-nocheck
 function main(): void {
   // Set the active state on the nav element for the current page.
   const {
@@ -33,3 +34,9 @@ function main(): void {
 
 // deno-lint-ignore no-window-prefix
 window.addEventListener("load", main);
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('config', 'G-Q3S1HZYBXZ');
