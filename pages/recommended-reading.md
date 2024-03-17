@@ -9,8 +9,8 @@ The books and resources below represent a selection of some of my favorite books
 <div class="book-container">
   <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634636289i/58990314.jpg">
   <div class="book-info">
-    <strong>The Sediments of Time: My Lifelong Search for the Past</strong>
-    <em>Meave Leakey, Samira Leakey</em>
+    <strong>Weavers, Scribes, and Kings: A New History of the Ancient Near East</strong>
+    <em>Amanda H. Podany</em>
     <p>In this sweeping history of the ancient Near East, Amanda Podany takes readers on a gripping journey from the creation of the world's first cities to the conquest of Alexander the Great. The book is built around the life stories of many ancient men and women, from kings, priestesses, and merchants to bricklayers, musicians, and weavers. Their habits of daily life, beliefs, triumphs, and crises, and the changes that they faced over time are explored through their own written words and the buildings, cities, and empires in which they lived.</p>
     <a href="https://www.goodreads.com/book/show/58990314-weavers-scribes-and-kings" target="_blank" rel="noopener noreferrer">More information on Goodreads</a>
   </div>
