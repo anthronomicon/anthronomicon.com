@@ -7,6 +7,16 @@ The books and resources below represent a selection of some of my favorite books
 <br>
 
 <div class="book-container">
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594618538i/52716713.jpg">
+  <div class="book-info">
+    <strong>First Steps: How Upright Walking Made Us Human</strong>
+    <em>Jeremy DeSilva</em>
+    <p>Paleoanthropologist Jeremy DeSilva explores how unusual and extraordinary this seemingly ordinary ability is. A seven-million-year journey to the very origins of the human lineage, First Steps shows how upright walking was a gateway to many of the other attributes that make us human—from our technological abilities, our thirst for exploration, our use of language–and may have laid the foundation for our species’ traits of compassion, empathy, and altruism.</p>
+    <a href="https://www.goodreads.com/book/show/52716713-first-steps" target="_blank" rel="noopener noreferrer">More information on Goodreads</a>
+  </div>
+</div>
+
+<div class="book-container">
   <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634636289i/58990314.jpg">
   <div class="book-info">
     <strong>Weavers, Scribes, and Kings: A New History of the Ancient Near East</strong>

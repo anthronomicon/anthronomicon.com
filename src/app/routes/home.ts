@@ -19,7 +19,7 @@ export default function buildHome(
   posts: Array<PostType>,
   outdir: string
 ): void {
-  const homepage = renderHomepage({ ...posts[0], ...config, nextPost: generateNextPost(posts[1]) });
+  const homepage = renderHomepage({ posts, ...config, nextPost: generateNextPost(posts[1]) });
 
   fs.writeFile(`${outdir}/index.html`, homepage, (error: any): void => {
     if (error) {
