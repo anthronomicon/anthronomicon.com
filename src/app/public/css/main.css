@@ -6,6 +6,7 @@
   --black: #1E1E1E;
   --deep-black: #1A1A1A;
   --blue: #4372EB;
+  --background: #c9c5bb;
 };
 
 html,
@@ -14,7 +15,7 @@ body {
   margin: 0;
   padding: 0;
   color: var(--black);
-  background-color: var(--gray);
+  background-color: var(--background);
   height: 100%;
   width: 100%;
 }
