@@ -34,10 +34,7 @@ The discovery of burial practices at Shanidar Cave, including the specific detai
 
 ### References
 
-- [^1]: Trinkaus, E. (2011). Late Pleistocene adult mortality patterns and modern human establishment. _Proceedings of the National Academy of Sciences_, 108(4), 1267-1271.
-- [^2]: Pomeroy, E., et al. (2020). New Neanderthal remains associated with the 'flower burial' at Shanidar Cave. _Antiquity_, 94(373), 11-26.
-- [^3]: Trinkaus, E., & Shipman, P. (1993). The Neanderthals: Changing the image of mankind. _Vintage_.
-- [^4]: Green, R. E., et al. (2010). A draft sequence of the Neanderthal genome. _Science_, 328(5979), 710-722.
-
-<!-- <div id="disqus_thread"></div>
-<script>var disqus_config = function () {this.page.url = "https://anthronomicon.com/essays/community"; this.page.identifier = "community"; };(function() {var d = document, s = d.createElement('script'); s.src = 'https://anthronomicon.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date());(d.head || d.body).appendChild(s);})();</script> -->
+[^1]: Trinkaus, E. (2011). Late Pleistocene adult mortality patterns and modern human establishment. _Proceedings of the National Academy of Sciences_, 108(4), 1267-1271.
+[^2]: Pomeroy, E., et al. (2020). New Neanderthal remains associated with the 'flower burial' at Shanidar Cave. _Antiquity_, 94(373), 11-26.
+[^3]: Trinkaus, E., & Shipman, P. (1993). The Neanderthals: Changing the image of mankind. _Vintage_.
+[^4]: Green, R. E., et al. (2010). A draft sequence of the Neanderthal genome. _Science_, 328(5979), 710-722.

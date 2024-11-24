@@ -38,9 +38,6 @@ Scholars continue to debate the "why" the Cucuteni ritually burned their settlem
 
 ### References
 
-- [^1]: Tringham, Ruth (2005), "Weaving house life and death into places: a blueprint for a hypermedia narrative", in Bailey, Douglass W.; Whittle, Alasdair W.R.; Cummings, Vicki (eds.), _(Un)settling the neolithic_, Oxford: Oxbow p.305-316.
-- [^2]: Gimbutas, Marija Alseikaitė (1974), _The gods and goddesses of old Europe, 7000 to 3500 BC: myths, legends and cult images_ London: Thames & Hudson, p. 303
-- [^3]: Bailey, Douglass W. (2005). _Prehistoric figurines: representation and corporeality in the Neolithic_. London; New York: Routledge.
-
-<!-- <div id="disqus_thread"></div>
-<script>var disqus_config = function () {this.page.url = "https://anthronomicon.com/essays/remembrance"; this.page.identifier = "remembrance"; };(function() {var d = document, s = d.createElement('script'); s.src = 'https://anthronomicon.disqus.com/embed.js'; s.setAttribute('data-timestamp', +new Date());(d.head || d.body).appendChild(s);})();</script> -->
+[^1]: Tringham, Ruth (2005), "Weaving house life and death into places: a blueprint for a hypermedia narrative", in Bailey, Douglass W.; Whittle, Alasdair W.R.; Cummings, Vicki (eds.), _(Un)settling the neolithic_, Oxford: Oxbow p.305-316.
+[^2]: Gimbutas, Marija Alseikaitė (1974), _The gods and goddesses of old Europe, 7000 to 3500 BC: myths, legends and cult images_ London: Thames & Hudson, p. 303
+[^3]: Bailey, Douglass W. (2005). _Prehistoric figurines: representation and corporeality in the Neolithic_. London; New York: Routledge.

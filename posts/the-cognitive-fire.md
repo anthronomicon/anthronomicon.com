@@ -33,4 +33,4 @@ For _Homo erectus_ in Dmanisi, the fire did more than soften food—it redefined
 
 ### References
 
-- [^1]: Wrangham, R. W. (2010). [Catching fire: How cooking made us human](https://www.amazon.com/Catching-Fire-Cooking-Made-Human/dp/0465020410/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=#detailBullets_feature_div). Basic Books. 
+[^1]: Wrangham, R. W. (2010). [Catching fire: How cooking made us human](https://www.amazon.com/Catching-Fire-Cooking-Made-Human/dp/0465020410/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=#detailBullets_feature_div). Basic Books. 

@@ -7,6 +7,16 @@ The books and resources below represent a selection of some of my favorite books
 <br>
 
 <div class="book-container">
+  <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1327200827i/1352294.jpg">
+  <div class="book-info">
+    <strong>Lucy: The Beginnings of Humankind</strong>
+    <em>Donald C. Johanson, Maitland A. Edey</em>
+    <p>When Donald Johanson found a partical skeleton, approximately 3.5 million years old, in a remote region of Ethiopia in 1974, a headline-making controversy was launched that continues on today. Bursting with all the suspense and intrigue of a fast paced adventure novel, here is Johanson’s lively account of the extraordinary discovery of “Lucy.”</p>
+    <a href="https://www.goodreads.com/book/show/189311.Lucy" target="_blank" rel="noopener noreferrer">More information on Goodreads</a>
+  </div>
+</div>
+
+<div class="book-container">
   <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594618538i/52716713.jpg">
   <div class="book-info">
     <strong>First Steps: How Upright Walking Made Us Human</strong>
