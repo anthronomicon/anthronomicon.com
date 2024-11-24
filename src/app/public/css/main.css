@@ -1,7 +1,7 @@
 :root {
   --orange: #E35E34;
   --burnt-orange: #D04E24;
-  --white: #F5F1EB;
+  --white: #orange;
   --gray: #B3B3B3;
   --black: #1E1E1E;
   --deep-black: #1A1A1A;
@@ -15,7 +15,7 @@ body {
   margin: 0;
   padding: 0;
   color: var(--black);
-  background-color: var(--background);
+  background-color: #fff;
   height: 100%;
   width: 100%;
 }
