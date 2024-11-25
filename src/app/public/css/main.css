@@ -1,5 +1,5 @@
 :root {
-  --orange: #E35E34;
+  --orange: #f7ab2c;
   --burnt-orange: #D04E24;
   --white: #orange;
   --gray: #B3B3B3;
@@ -28,13 +28,17 @@ body {
   align-items: center;
 }
 
+main {
+  margin-top: 36px;
+}
+
 a {
   text-decoration: none;
   color: inherit;
 }
 
 hr {
-  height: 2px;
+  height: 1px;
   background: var(--gray);
   border: none;
 }

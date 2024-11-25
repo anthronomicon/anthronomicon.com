@@ -17,19 +17,18 @@ nav {
   flex-direction: row;
   width: 100%;
   justify-content: space-between;
-  margin-top: 12px;
-  margin-bottom: 12px;
 }
 
 .logo {
   display: flex;
   height: 27px;
   align-items: center;
-  margin-left: 12px;
+  padding: 12px;
+  border-right: 0.5px solid #000;
 }
 
 .logo svg {
-  margin-right: 8px;
+  margin-right: 12px;
 }
 
 nav ul {
