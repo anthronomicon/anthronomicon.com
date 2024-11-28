@@ -1,6 +1,6 @@
 ---
 date: "June 28, 2024"
-title: "Community"
+title: "The Bond Eternal"
 description: "In the ancient and rugged terrain of what we now know as Iraqi Kurdistan, the Shanidar Valley was home to a small but tightly-knit community of Neanderthals. Among them lived Shanidar Z, a woman of remarkable endurance and wisdom. Shanidar Z was in her mid-forties, an impressive age for the era. Her body bore the marks of a life filled with both hardship and care. Her teeth were worn down to the roots from years of using them as tools, and her bones showed signs of healed injuries, evidence of a resilient spirit. She was small in stature, barely reaching five feet tall, but her presence was commanding within her community..."
 published: true
 ---

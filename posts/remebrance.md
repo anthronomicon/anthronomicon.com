@@ -1,6 +1,6 @@
 ---
 date: "February 24, 2024"
-title: "Remembrance"
+title: "Echoes on The Horizon"
 description: "Flames flickered atop the torch, casting their warm, golden light upon the young man and the small gathering of kin assembled for the occasion. Tonight the air was heavy with the weight of sacred duty—honoring not only the enduring traditions of his people passed down through generations, but that of his father. Lifting his gaze, the young man looked into the structure before him..."
 published: true
 ---
