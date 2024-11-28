@@ -38,16 +38,25 @@ article:last-of-type {
   }
 }
 
-article h2 {
-  color: black;
-  text-align: left;
+h1, h2, h3, h4, h5, h6, strong {
   font-family: "brother-1816", sans-serif;
   font-weight: 800;
   font-style: normal;
+}
+
+article h2 {
+  color: black;
+  text-align: left;
   font-size: 96px;
   line-height: 112px;
   margin: 0;
   text-transform: uppercase;
+}
+
+article.page h2 {
+  font-size: 48px;
+  text-align: center;
+  line-height: 64px;
 }
 
 article > .content {
@@ -72,20 +81,29 @@ article > .header {
   align-items: flex-start;
 }
 
+article.page > .header {
+  margin-top: 24px;
+  align-items: center;
+}
+
 article > .header > .meta {
   margin-bottom: 8px;
 }
 
 article a {
-  color: var(--blue);
+  font-family: "brother-1816", sans-serif;
+  font-weight: 700;
+  color: black;
   font-weight: bold;
   text-decoration: none;
-}
-
-article a:hover {
   text-decoration: underline;
   text-decoration-thickness: 2px;
   text-underline-offset: 2px;
+  text-decoration-color: var(--orange);
+}
+
+article a:hover {
+  color: var(--orange);
 }
 
 article > .header a {
@@ -111,7 +129,6 @@ article > .header a {
 .book-container > img {
   border-radius: 0 6% 6% 0/4%;
   overflow: hidden;
-  filter: drop-shadow(0 0.2rem 0.6rem rgba(0, 0, 0, 0.2));
   margin-right: 24px;
   width: 124px;
   height: 148px;

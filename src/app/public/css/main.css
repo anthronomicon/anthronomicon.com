@@ -15,22 +15,18 @@ body {
   margin: 0;
   padding: 0;
   color: var(--black);
-  background-color: #fff;
   height: 100%;
   width: 100%;
-  background-color: var(--gray);
-}
-
-body {
-  display: flex;
-  font-weight: normal;
-  flex-direction: column;
-  width: 100%;
-  align-items: center;
+  background-color: black;
 }
 
 main {
+  display: flex;
+  flex-direction: column;
   padding-top: 96px;
+  padding-bottom: 48px;
+  align-items: center;
+  background-color: var(--gray);
 }
 
 a {
