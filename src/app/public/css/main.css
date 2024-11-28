@@ -29,6 +29,14 @@ main {
   background-color: var(--gray);
 }
 
+@media screen and (max-width: 700px) {
+  main {
+    padding-top: 172px;
+    padding-left: 8px;
+    padding-right: 16px;
+  }
+}
+
 a {
   text-decoration: none;
   color: inherit;

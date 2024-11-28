@@ -65,8 +65,17 @@ nav .active {
 }
 
 @media screen and (max-width: 700px) {
+  nav ul li:first-of-type {
+    border: none;
+  }
+  
+  nav ul li:last-of-type {
+    border: none;
+  }
+
   .logo {
     margin-bottom: 24px;
+    border: none;
   }
 
   nav {
@@ -83,13 +92,9 @@ nav .active {
   }
 
   nav ul li {
-    margin-bottom: 24px;
-  }
-
-  nav ul li:last-of-type {
     margin-bottom: 0;
   }
-
+  
   nav .active {
     margin: 0;
   }

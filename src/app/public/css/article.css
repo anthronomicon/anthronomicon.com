@@ -65,25 +65,38 @@ article > .content {
   padding-bottom: 24px;
 }
 
-@media screen and (max-width: 700px) {
-  article > .content {
-    max-width: 100%;
-    padding: 0 24px;
-  }
-}
-
 article > .header {
   max-width: 640px;
   text-align: left;
-  padding: 0 60px;
   display: flex;
+  padding: 0 60px;
   flex-direction: column;
   align-items: flex-start;
 }
 
+
 article.page > .header {
   margin-top: 24px;
   align-items: center;
+}
+
+@media screen and (max-width: 700px) {
+  article h2,
+  article.page h2 {
+    font-size: 48px;
+    line-height: 64px;
+    text-transform: uppercase;
+  }
+
+  article > .content {
+    max-width: 100%;
+    padding: 0 24px;
+  }
+
+  article > .header,
+  article.page > .header {
+    padding: 0 24px;
+  }
 }
 
 article > .header > .meta {
