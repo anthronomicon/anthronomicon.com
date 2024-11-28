@@ -18,7 +18,7 @@ html(lang="en")
         article
           img(src=post.attributes.image)
           div.header
-              a(href="/essays/" + path) #[h2=post.attributes.title]
+              a(href="/essays/" + post.path) #[h2=post.attributes.title]
               div.meta #[+time(post.attributes.date)]
           div.content
               | !{post.body}
