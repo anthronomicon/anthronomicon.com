@@ -81,11 +81,17 @@ article.page > .header {
 }
 
 @media screen and (max-width: 700px) {
-  article h2,
-  article.page h2 {
+  article h2 {
     font-size: 48px;
     line-height: 64px;
     text-transform: uppercase;
+  }
+
+  article.page h2 {
+    font-size: 36px;
+    line-height: 64px;
+    text-transform: uppercase;
+    text-wrap: wrap;
   }
 
   article > .content {
@@ -135,14 +141,15 @@ article > .header a {
   width: 100%;
 }
 
-.book-info > strong {
-  max-width: 420px;
+.book-info > h3 {
+  text-transform: uppercase;
+  margin: 0;
 }
 
 .book-container > img {
-  border-radius: 0 6% 6% 0/4%;
-  overflow: hidden;
   margin-right: 24px;
   width: 124px;
   height: 148px;
+  border: 2px solid black;
+  box-shadow: 4px 4px 0 0 #000;
 }
