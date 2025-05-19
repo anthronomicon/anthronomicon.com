@@ -1,8 +1,10 @@
 ---
 date: "June 28, 2024"
 title: "The Bond Eternal"
-description: "In the ancient and rugged terrain of what we now know as Iraqi Kurdistan, the Shanidar Valley was home to a small but tightly-knit community of Neanderthals. Among them lived Shanidar Z, a woman of remarkable endurance and wisdom. Shanidar Z was in her mid-forties, an impressive age for the era. Her body bore the marks of a life filled with both hardship and care. Her teeth were worn down to the roots from years of using them as tools, and her bones showed signs of healed injuries, evidence of a resilient spirit. She was small in stature, barely reaching five feet tall, but her presence was commanding within her community..."
+author: "Tyler Reckart"
+description: "Explore the deep-seated human need for community, rooted in our evolutionary past for survival and cooperation, and why it remains vital for well-being today."
 published: true
+tags: ["Essays"]
 ---
 Amid the ancient peaks and rugged terrain of the Zagros Mountains, in what we now know as Iraqi Kurdistan, a small community of Neanderthals made their home in a cave overlooking the valley below. Within this close-knit group lived a woman, revered for her endurance and wisdom. Surviving the harsh world of her time, she reached her mid-forties—an impressive age for that era. Her body bore the marks of a life filled with both hardship and care. Her teeth were worn down from years of consuming the hardy plants that grew in the valley. Though small in stature, barely reaching five feet tall, her presence within her community was commanding.
 

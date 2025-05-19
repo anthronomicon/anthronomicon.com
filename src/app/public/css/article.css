@@ -1,11 +1,7 @@
 time {
-  color: var(--gray);
   font-family: "brother-1816", sans-serif;
   font-weight: 700;
   font-style: normal;
-  line-height: 26px;
-  letter-spacing: 2px;
-  text-transform: uppercase;
 }
 
 article {
@@ -105,8 +101,31 @@ article.page > .header {
   }
 }
 
-article > .header > .meta {
+ .meta {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
   margin-bottom: 8px;
+}
+
+.meta a {
+  text-decoration: underline !important;
+  text-decoration-color: var(--orange) !important;
+  text-decoration-thickness: 2px !important;
+}
+
+.meta > div {
+  gap: 3px;
+}
+
+.date,
+.attribution {
+  display: flex;
+}
+
+.tags {
+  display: flex;
+  gap: 3px;
 }
 
 article a {

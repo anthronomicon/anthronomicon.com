@@ -1,8 +1,10 @@
 ---
 date: "November 24, 2024"
 title: "The Cognitive Fire"
-description: "The evening sun dips slowly beyond the western horizon, casting long shadows across the arid, open landscape of Dmanisi, Georgia. The landscape is a rugged blend of open plains and scattered hills, alive with the sounds of distant birds and the rustling of dry grass in the wind. A river winds its way through the valley, providing a lifeline to the early inhabitants of this distant corner of the Earth. Here, more than a million and a half years ago, Homo erectus has begun to master fire."
+author: "Tyler Reckart"
+description: "How did fire ignite the human mind? This essay examines fire's crucial role not just for survival, but as a catalyst for cognitive evolution and abstract thought."
 published: true
+tags: ["Essays"]
 ---
 
 The evening sun dips slowly beyond the western horizon, casting long shadows across the arid, open landscape of Dmanisi, Georgia. The landscape is a rugged blend of open plains and scattered hills, alive with the sounds of distant birds and the rustling of dry grass in the wind. A river winds its way through the valley, providing a lifeline to the early inhabitants of this distant corner of the Earth. Here, more than a million and a half years ago, _Homo erectus_ has begun to master fire.

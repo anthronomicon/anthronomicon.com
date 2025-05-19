@@ -25,7 +25,13 @@ html(lang="en")
         img(src=attributes.image)
         div.header
             a(href="/essays/" + path) #[h2=attributes.title]
-            div.meta #[+time(attributes.date)]
+            div.meta
+              div.date
+                em Published on
+                div #[+time(attributes.date)].
+              div.attribution
+                em Written by
+                div #[a(href="/about")=attributes.author]
         div.content
             | !{body}
     include footer.pug

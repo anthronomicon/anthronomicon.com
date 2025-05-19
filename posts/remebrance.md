@@ -1,8 +1,10 @@
 ---
 date: "February 24, 2024"
 title: "Echoes on The Horizon"
-description: "Flames flickered atop the torch, casting their warm, golden light upon the young man and the small gathering of kin assembled for the occasion. Tonight the air was heavy with the weight of sacred duty—honoring not only the enduring traditions of his people passed down through generations, but that of his father. Lifting his gaze, the young man looked into the structure before him..."
+author: "Tyler Reckart"
+description: "Delve into the anthropological importance of remembrance. Explore how shared memories bind communities, define cultures, and connect us to our collective past."
 published: true
+tags: ["Essays"]
 ---
 Flames flickered atop the torch, casting their warm, golden light upon the young man and the small gathering of kin assembled for the occasion. Tonight the air was heavy with the weight of sacred duty—honoring not only the enduring traditions of his people passed down through generations, but that of his father. Lifting his gaze, the young man looked into the structure before him; the thatched roof and clay walls weathered with time. Intricate carved clay figures adorned the windowsill. They were artifacts from an era long past, whispering tales of a childhood long gone.
 
